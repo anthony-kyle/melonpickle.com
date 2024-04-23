@@ -1,0 +1,102 @@
+{% assign blog_handles = section.settings.handles | split: ',' %}
+
+{% for handle in blog_handles %}
+  {% assign clean_handle = handle | strip %}
+  {% assign blog = blogs[clean_handle] %}
+  <div class="blog-list__blog">
+    <div class="blog-list__blog--inner page-width">
+      <h2 class="title inline-richtext h1 scroll-trigger animate--slide-in">{{ blog.title }}</h2>
+      <div class="blog-list__articles scroll-trigger animate--slide-in">
+        {% for article in blog.articles %}
+          <a href="{{ article.url }}" class="blog-list__articles__article">
+            <img src="{{ article.image | image_url: width: 400}}" alt="{{ article.image.alt }}">
+            <h3 class="title h2">{{ article.title }}</h3>
+            <p>{{ article.excerpt | strip_html | truncatewords: 15 }}</p>
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+{% style %}
+.main {
+  .section:last-child {
+  }
+}
+
+.blog-list {
+
+  .blog-list__blog {
+    padding-bottom: 3rem;
+    &:nth-child(odd) {
+      background: lightgrey;
+    }
+    .blog-list__blog--inner {
+
+      padding: 20px;
+    }
+  }
+
+  .blog-list__articles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between; 
+    .blog-list__articles__article {
+      width: clamp(200px, 40vw, 300px);
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      padding: 10px;
+      transition: scale ease 0.3s;
+      border-radius: 0.25rem;
+      color: var(--color-text);
+
+      text-decoration: none;
+      &:hover {
+        cursor: pointer;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        scale: 1.05;
+      }
+      img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+      }
+    }
+  }
+}
+{% endstyle %}
+
+{% schema %}
+{
+  "name": "blog-list",
+  "tag": "section",
+  "class": "section blog-list",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Blog List"
+    },
+    {
+      "type": "text",
+      "id": "handles",
+      "label": "Handles",
+      "default": "accessories, furniture, restorations"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+    }
+  ],
+  "presets": [
+    {
+      "name": "blog-list"
+    } 
+  ]
+}
+{% endschema %}
