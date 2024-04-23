@@ -1,1 +1,332 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"The Short","heading_size":"h0"}},"text":{"type":"text","settings":{"text":"<p>Anthony and Nicole here. We are the duo that make up MelonPickle.  The name MelonPickle was born during the very silly early stages of our relationship. Our aim is to share what we enjoy doing with you. As we believe that happiness shared is happiness multiplied.<\/p>"}}},"block_order":["heading","text"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":0,"padding_bottom":0}},"image-banner":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/8323BC27-8827-45CC-9D34-60A8E088121A.png","image_overlay_opacity":0,"image_height":"small","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"de80ecb4-bb62-4fab-890b-f131aacce41c":{"type":"rich-text","blocks":{"06e85574-fe60-44e3-9bef-4b6913da1189":{"type":"heading","settings":{"heading":"The Long","heading_size":"h0"}},"50ffd2fc-932f-48ed-b313-00f8ba0c1f8d":{"type":"text","settings":{"text":"<p>We met in September 2017, started dating in February 2018, moved in together in April 2018, engaged in September 2018, married in March 2020 and expanded the family in December 2023.<\/p><p>Hmm... I guess it isn't that long. <\/p><p>Here we are now finding so much joy in learning how to make things with our hands (plus tools and machinery). From leather wallets to MDF Lamp shades, cutting boards, wood turned pens to children's story books. Making things throughout the years has just brought us closer together and made us feel happy to see the results. We hope that we can inspire you to make things too. Join us in making perfectly imperfect things.<\/p>"}}},"block_order":["06e85574-fe60-44e3-9bef-4b6913da1189","50ffd2fc-932f-48ed-b313-00f8ba0c1f8d"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"background-2","full_width":true,"padding_top":24,"padding_bottom":24}},"multicolumn-2":{"type":"multicolumn","blocks":{"column-1":{"type":"column","settings":{"title":"To Share","text":"<p>As they say, 'sharing is caring.' We love sharing our knowledge, our experiences and our gifts with everyone that is willing to accept it. <\/p>","link_label":"","link":""}},"column-2":{"type":"column","settings":{"title":"To Evolve","text":"<p>We have both adapted a growth mindset in our relationship and we hope to apply it to our craft. To learn new things, to try new things. To always be better than who we were yesterday. <\/p>","link_label":"","link":""}},"column-3":{"type":"column","settings":{"title":"To Be Eco Friendly","text":"<p>We are stewards of God's creation.<\/p><p>We strive to use the most eco-friendly and sustainable materials for our projects. And also to avoid\/minimise any wastage. Everything in MelonPickle is made to order. It is specially made for you.<\/p>","link_label":"","link":""}},"column-4":{"type":"column","settings":{"title":"To Be Joyful","text":"<p>We have been blessed with a calling for making, being craftsmen. When we work on a project, we are brought closer to each other, and to Jesus, as we share in his craft. This fills us with joy as we embark on honing our skills, building things, and building a stronger relationship between ourselves and God.<\/p>","link_label":"","link":""}}},"block_order":["column-1","column-2","column-3","column-4"],"settings":{"title":"The Goal","heading_size":"h0","image_width":"full","image_ratio":"square","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"multicolumn-1":{"type":"multicolumn","blocks":{"column-1":{"type":"column","settings":{"title":"Anthony (Pickle)","text":"<p>An oddball since forever, I have always loved being creative. Whether this was in the Drama or Music through school, the Bachelor of Music at university, the Web Development \/ Software Engineering of my day job, or to the making of cool and interesting things in the workshop. <\/p><p>Balancing the love of making with the fear of making mistakes that comes with being on the spectrum, I did not believe I could achieve it, but Melons support and like minded spirit pushed me to overcome what I thought were immovable barriers in the way of doing the things that excited me. <\/p><p>Together I have learnt to accept my own imperfections, as well as see the imperfections in the things we make as the character that makes it unique and wonderful.<\/p>","link_label":"","link":""}},"column-2":{"type":"column","settings":{"title":"Nicole (Melon)","text":"<p>Quantity Surveyour by day, fun stuff maker by night. Born and raised in The Philippines. Then immigrated with my family to New Zealand when I was 13 years old. <\/p><p>From a young age I've always liked designing and making things. It may not have been the best looking things but the process and act of making it has always been incredibly fun for me. I made a parol (Filipino ornamental lantern), designed mazes and made quite a few creepy paintings. <\/p><p>Finding someone that shared my love of making things has been an incredible blessing. On top of that he can put up with me and my many many moods.<\/p>","link_label":"","link":""}}},"block_order":["column-1","column-2"],"settings":{"title":"The Couple","heading_size":"h0","image_width":"full","image_ratio":"square","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":28,"padding_bottom":16}},"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"SUBSCRIBE TO OUR EMAILS","heading_size":"h1"}},"paragraph":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new collections and exclusive offers.<\/p>"}},"email-form":{"type":"email_form","settings":{}}},"block_order":["heading","paragraph","email-form"],"settings":{"color_scheme":"accent-1","full_width":true,"padding_top":40,"padding_bottom":40}}},"order":["main","rich-text","image-banner","de80ecb4-bb62-4fab-890b-f131aacce41c","multicolumn-2","multicolumn-1","newsletter"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Short",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Anthony and Nicole here. We are the duo that make up MelonPickle.  The name MelonPickle was born during the very silly early stages of our relationship. Our aim is to share what we enjoy doing with you. As we believe that happiness shared is happiness multiplied.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/8323BC27-8827-45CC-9D34-60A8E088121A.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "de80ecb4-bb62-4fab-890b-f131aacce41c": {
+      "type": "rich-text",
+      "blocks": {
+        "06e85574-fe60-44e3-9bef-4b6913da1189": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Long",
+            "heading_size": "h0"
+          }
+        },
+        "50ffd2fc-932f-48ed-b313-00f8ba0c1f8d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We met in September 2017, started dating in February 2018, moved in together in April 2018, engaged in September 2018, married in March 2020 and expanded the family in December 2023.</p><p>Hmm... I guess it isn't that long. </p><p>Here we are now finding so much joy in learning how to make things with our hands (plus tools and machinery). From leather wallets to MDF Lamp shades, cutting boards, wood turned pens to children's story books. Making things throughout the years has just brought us closer together and made us feel happy to see the results. We hope that we can inspire you to make things too. Join us in making perfectly imperfect things.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "06e85574-fe60-44e3-9bef-4b6913da1189",
+        "50ffd2fc-932f-48ed-b313-00f8ba0c1f8d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn-2": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "To Share",
+            "text": "<p>As they say, 'sharing is caring.' We love sharing our knowledge, our experiences and our gifts with everyone that is willing to accept it. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "To Evolve",
+            "text": "<p>We have both adapted a growth mindset in our relationship and we hope to apply it to our craft. To learn new things, to try new things. To always be better than who we were yesterday. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "title": "To Be Eco Friendly",
+            "text": "<p>We are stewards of God's creation.</p><p>We strive to use the most eco-friendly and sustainable materials for our projects. And also to avoid/minimise any wastage. Everything in MelonPickle is made to order. It is specially made for you.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-4": {
+          "type": "column",
+          "settings": {
+            "title": "To Be Joyful",
+            "text": "<p>We have been blessed with a calling for making, being craftsmen. When we work on a project, we are brought closer to each other, and to Jesus, as we share in his craft. This fills us with joy as we embark on honing our skills, building things, and building a stronger relationship between ourselves and God.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3",
+        "column-4"
+      ],
+      "settings": {
+        "title": "The Goal",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn-1": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Anthony (Pickle)",
+            "text": "<p>An oddball since forever, I have always loved being creative. Whether this was in the Drama or Music through school, the Bachelor of Music at university, the Web Development / Software Engineering of my day job, or to the making of cool and interesting things in the workshop. </p><p>Balancing the love of making with the fear of making mistakes that comes with being on the spectrum, I did not believe I could achieve it, but Melons support and like minded spirit pushed me to overcome what I thought were immovable barriers in the way of doing the things that excited me. </p><p>Together I have learnt to accept my own imperfections, as well as see the imperfections in the things we make as the character that makes it unique and wonderful.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Nicole (Melon)",
+            "text": "<p>Quantity Surveyour by day, fun stuff maker by night. Born and raised in The Philippines. Then immigrated with my family to New Zealand when I was 13 years old. </p><p>From a young age I've always liked designing and making things. It may not have been the best looking things but the process and act of making it has always been incredibly fun for me. I made a parol (Filipino ornamental lantern), designed mazes and made quite a few creepy paintings. </p><p>Finding someone that shared my love of making things has been an incredible blessing. On top of that he can put up with me and my many many moods.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2"
+      ],
+      "settings": {
+        "title": "The Couple",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "SUBSCRIBE TO OUR EMAILS",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "question_list_m98T7L": {
+      "type": "question_list",
+       "blocks": {
+        "cc8302ab-3ad3-4041-b033-247c8007449a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Random Question Time</p>",
+            "heading_size": "h1"
+          }
+        },
+        "d0dbea7d-50ce-42e1-8bd8-af99215c8cc7": {
+          "type": "header-row",
+          "settings": {
+            "col_1": "<p>Anthony (Pickle)</p>",
+            "title": "Question",
+            "col_3": "<p>Nicole (Melon)</p>"
+          }
+        },
+        "c7a358b8-bd40-48a6-a90d-e04378d5a27d": {
+          "type": "row",
+          "settings": {
+            "title": "If you could only use only 1 word for the rest of your life what would it be?",
+            "col_1": "<p>As there is no single word in the world that is possible to convey everything that would need to be communicated in life, I would have to do a Pokémon style move and use a name. As I don't want to say my own name repeatedly I would say the name of my love as would always bring me joy. <br/><br/>I would use <em>\"Melon\"</em><strong>.</strong></p>",
+            "col_3": "<p>Hmmmm.... This is a hard one. Maybe just like Groot I will pick a name and just say it with feelings. I wouldn't want it to be Nicole. I think I will use <em>\"Love\"</em>.</p>"
+          }
+        },
+        "bf3dc542-8b2c-4aa0-ae41-0112139c19a8": {
+          "type": "row",
+          "settings": {
+            "title": "If your life was a song what genre would it be?",
+            "col_1": "<p><em>Prog Rock</em> as it is constantly evolving in unexpected ways.</p>",
+            "col_3": "<p><em>Traditional and Folk Music</em>. I have mostly lived a traditional and simple life.</p>"
+          }
+        },
+        "1a397253-f1ef-4920-b09f-13dc4ae68fbf": {
+          "type": "row",
+          "settings": {
+            "title": "If you were a remote button which one would you be?",
+            "col_1": "<p><em>Teletext</em>, as I provide a lot of information that not many people actually care about.</p>",
+            "col_3": "<p><em>Record</em>, I would like to think that I have a great memory.</p>"
+          }
+        },
+        "23adda71-3ebe-4040-bac3-5f0dca8a975b": {
+          "type": "row",
+          "settings": {
+            "title": "If food is bad at a restaurant will you return it?",
+            "col_1": "<p>Depends on how bad it is. If it isn't great but still edible I will mention it when checking out. If it is inedible then I will send it back.</p>",
+            "col_3": "<p>I don't think I've ever done that. So I guess <em>no</em>. or maybe I just order really yummy food.</p>"
+          }
+        },
+        "1883f8f4-7f7e-464b-a518-7d1b9abd0c3b": {
+          "type": "row",
+          "settings": {
+            "title": "Spontaineity or stability?",
+            "col_1": "<p><em>Stability</em> 100%, too much spontenaity and I feel lost and ungrounded.</p>",
+            "col_3": "<p><em>Spontaineity</em>. I mean security and stability is important but if I had no responsibilities I would like to just always be spontaneous.</p>"
+          }
+        },
+        "fea3f2ca-98d9-4bf5-a07c-8258326cee9c": {
+          "type": "row",
+          "settings": {
+            "title": "Board game or Video game?",
+            "col_1": "<p><em>Video games</em>, the ability to lose yourself in another world is thrilling. I do however love playing board games with friends.</p>",
+            "col_3": "<p><em>Board games</em> all the way. I love having something tangible to hold and be with people in person.</p>"
+          }
+        },
+        "761680c4-2458-42af-8506-bb739757b3d2": {
+          "type": "row",
+          "settings": {
+            "title": "Feel like a potato or look like a potato?",
+            "col_1": "<p>This is a difficult question, is feeling like a potato the tactile sense of a potato if others touch me? Or emotionally feeling like a potato? </p><p>I imagine the emotions of a potato is fairly peaceful so may be nice, but if it is having the skin of a potato, then I absolutely would not like to have my skin feel that rough.</p><p>As such I choose to <em>look like a potato</em>, because it makes the most sense. </p>",
+            "col_3": "<p>I assume that feeling like a potato is to be boring, lazy, strange and dull. And to look like a potato is to look ugly or lumpy.</p><p>So I guess I'd rather <em>look like a potato</em> because at least I am enjoying my life as an ugly lumpy potato.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "cc8302ab-3ad3-4041-b033-247c8007449a",
+        "d0dbea7d-50ce-42e1-8bd8-af99215c8cc7",
+        "c7a358b8-bd40-48a6-a90d-e04378d5a27d",
+        "bf3dc542-8b2c-4aa0-ae41-0112139c19a8",
+        "1a397253-f1ef-4920-b09f-13dc4ae68fbf",
+        "23adda71-3ebe-4040-bac3-5f0dca8a975b",
+        "1883f8f4-7f7e-464b-a518-7d1b9abd0c3b",
+        "fea3f2ca-98d9-4bf5-a07c-8258326cee9c",
+        "761680c4-2458-42af-8506-bb739757b3d2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "allow_section_spacing": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }   
+    }
+  },
+  "order": [
+    "main",
+    "rich-text",
+    "image-banner",
+    "de80ecb4-bb62-4fab-890b-f131aacce41c",
+    "multicolumn-2",
+    "multicolumn-1",
+    "newsletter",
+    "question_list_m98T7L"
+  ]
+}
