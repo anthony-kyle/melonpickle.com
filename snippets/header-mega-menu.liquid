@@ -5,9 +5,11 @@
   {% render 'header-mega-menu' %}
 {% endcomment %}
 
+<script>console.debug("{{section_menu | json}}")</script>
+
 <nav class="header__inline-menu">
   <ul class="list-menu list-menu--inline" role="list">
-    {%- for link in section.settings.menu.links -%}
+    {%- for link in menu.links -%}
       <li>
         {%- if link.links != blank -%}
           <header-menu>
